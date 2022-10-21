@@ -14,6 +14,6 @@
 `python3 get_emojis.py AUTH_TOKEN`
 
 ## How to get Slack OAuth Token
-See medium article
+See medium article https://medium.com/@andrejkurocenko/how-to-download-custom-emojis-from-slack-66fe6913e35f
 
 
